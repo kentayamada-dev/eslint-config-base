@@ -8,10 +8,6 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v3
 
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v3
-        with:
-          node-version: 16
       - name: NPM Publish
         uses: JS-DevTools/npm-publish@v1
         with:
