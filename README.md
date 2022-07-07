@@ -1,1 +1,1 @@
-# eslint-config-base
+# ESLint shareable config

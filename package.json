@@ -1,0 +1,30 @@
+{
+  "author": "Kenta Yamada",
+  "description": "ESLint shareable config",
+  "homepage": "https://github.com/kentayamada-dev/eslint-config-base#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@kentayamada-dev/eslint-config-base",
+  "version": "0.0.6",
+  "bugs": {
+    "url": "https://github.com/kentayamada-dev/eslint-config-base/issues"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "peerDependencies": {
+    "eslint": "^8.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentayamada-dev/eslint-config-base.git"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.30.5",
+    "@typescript-eslint/parser": "^5.30.5",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-typescript-sort-keys": "^2.1.0",
+    "eslint-plugin-eslint-comments": "^3.2.0"
+  }
+}
