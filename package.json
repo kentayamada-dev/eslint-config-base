@@ -5,17 +5,17 @@
   "license": "MIT",
   "main": "index.js",
   "name": "@kentayamada-dev/eslint-config-base",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "bugs": {
     "url": "https://github.com/kentayamada-dev/eslint-config-base/issues"
+  },
+  "peerDependencies": {
+    "eslint": "^8.19.0"
   },
   "keywords": [
     "eslint",
     "eslintconfig"
   ],
-  "peerDependencies": {
-    "eslint": "^8.19.0"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kentayamada-dev/eslint-config-base.git"
