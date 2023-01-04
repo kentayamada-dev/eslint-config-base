@@ -1,5 +1,5 @@
 # ESLint shareable config
-[![CI](https://img.shields.io/github/workflow/status/kentayamada-dev/eslint-config-base/CI?label=CI&logo=Github)](https://github.com/kentayamada-dev/eslint-config-base/actions/workflows/ci.yml)
+[![CI](https://github.com/kentayamada-dev/eslint-config-base/actions/workflows/ci.yml/badge.svg)](https://github.com/kentayamada-dev/eslint-config-base/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@kentayamada-dev/eslint-config-base?logo=npm)](https://www.npmjs.org/package/@kentayamada-dev/eslint-config-base)
 [![install size](https://img.shields.io/npm/dt/@kentayamada-dev/eslint-config-base?logo=npm)](https://www.npmjs.org/package/@kentayamada-dev/eslint-config-base)
 
